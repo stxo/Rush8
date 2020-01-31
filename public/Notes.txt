@@ -1,0 +1,5 @@
+#Nice to have features: 
+
+# Trait Win Percentage (%)
+# Champion Win Percentage (%)
+# Top4 Percentage (%)
